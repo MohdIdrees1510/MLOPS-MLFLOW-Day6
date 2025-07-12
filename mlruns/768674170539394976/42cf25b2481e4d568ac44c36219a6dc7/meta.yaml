@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/42cf25b2481e4d568ac44c36219a6dc7/artifacts
+end_time: 1752304662275
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 42cf25b2481e4d568ac44c36219a6dc7
+run_name: languid-rat-138
+run_uuid: 42cf25b2481e4d568ac44c36219a6dc7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662225
+status: 3
+tags: []
+user_id: Mohd idrees

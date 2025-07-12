@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/6edaf24da7b1431bad6e0e64f19c974f/artifacts
+end_time: 1752304662148
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 6edaf24da7b1431bad6e0e64f19c974f
+run_name: serious-shrimp-611
+run_uuid: 6edaf24da7b1431bad6e0e64f19c974f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662100
+status: 3
+tags: []
+user_id: Mohd idrees

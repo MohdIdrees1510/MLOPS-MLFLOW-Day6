@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/6289a3148d8146a78d8e421d5636a1b2/artifacts
+end_time: 1752304662343
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 6289a3148d8146a78d8e421d5636a1b2
+run_name: enchanting-foal-101
+run_uuid: 6289a3148d8146a78d8e421d5636a1b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662292
+status: 3
+tags: []
+user_id: Mohd idrees

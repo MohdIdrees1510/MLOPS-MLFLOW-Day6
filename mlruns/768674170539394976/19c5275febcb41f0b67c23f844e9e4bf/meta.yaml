@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/19c5275febcb41f0b67c23f844e9e4bf/artifacts
+end_time: 1752304662634
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 19c5275febcb41f0b67c23f844e9e4bf
+run_name: redolent-cub-375
+run_uuid: 19c5275febcb41f0b67c23f844e9e4bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662592
+status: 3
+tags: []
+user_id: Mohd idrees

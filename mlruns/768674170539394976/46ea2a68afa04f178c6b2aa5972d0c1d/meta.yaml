@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/46ea2a68afa04f178c6b2aa5972d0c1d/artifacts
+end_time: 1752304662515
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 46ea2a68afa04f178c6b2aa5972d0c1d
+run_name: mysterious-roo-704
+run_uuid: 46ea2a68afa04f178c6b2aa5972d0c1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662469
+status: 3
+tags: []
+user_id: Mohd idrees

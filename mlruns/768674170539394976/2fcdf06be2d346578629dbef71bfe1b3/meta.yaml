@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/2fcdf06be2d346578629dbef71bfe1b3/artifacts
+end_time: 1752304661973
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: 2fcdf06be2d346578629dbef71bfe1b3
+run_name: agreeable-snipe-249
+run_uuid: 2fcdf06be2d346578629dbef71bfe1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304661924
+status: 3
+tags: []
+user_id: Mohd idrees

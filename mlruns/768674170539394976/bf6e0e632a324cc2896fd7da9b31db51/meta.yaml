@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS%20One%20Last%20Time/MLOPS-MLFLOW-Day6/mlruns/768674170539394976/bf6e0e632a324cc2896fd7da9b31db51/artifacts
+end_time: 1752304662209
+entry_point_name: ''
+experiment_id: '768674170539394976'
+lifecycle_stage: active
+run_id: bf6e0e632a324cc2896fd7da9b31db51
+run_name: nebulous-bat-344
+run_uuid: bf6e0e632a324cc2896fd7da9b31db51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752304662161
+status: 3
+tags: []
+user_id: Mohd idrees
