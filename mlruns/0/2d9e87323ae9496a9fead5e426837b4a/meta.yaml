@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2d9e87323ae9496a9fead5e426837b4a/artifacts
+end_time: 1752201866594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d9e87323ae9496a9fead5e426837b4a
+run_name: puzzled-goose-412
+run_uuid: 2d9e87323ae9496a9fead5e426837b4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752201866452
+status: 3
+tags: []
+user_id: Mohd idrees

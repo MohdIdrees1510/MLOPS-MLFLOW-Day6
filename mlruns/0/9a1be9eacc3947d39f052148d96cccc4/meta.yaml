@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9a1be9eacc3947d39f052148d96cccc4/artifacts
+end_time: 1752207359501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a1be9eacc3947d39f052148d96cccc4
+run_name: agreeable-fawn-506
+run_uuid: 9a1be9eacc3947d39f052148d96cccc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752207358847
+status: 4
+tags: []
+user_id: Mohd idrees

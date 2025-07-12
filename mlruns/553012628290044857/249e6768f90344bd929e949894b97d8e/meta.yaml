@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/553012628290044857/249e6768f90344bd929e949894b97d8e/artifacts
+end_time: 1752292873562
+entry_point_name: ''
+experiment_id: '553012628290044857'
+lifecycle_stage: active
+run_id: 249e6768f90344bd929e949894b97d8e
+run_name: omniscient-skink-358
+run_uuid: 249e6768f90344bd929e949894b97d8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752292863157
+status: 3
+tags: []
+user_id: Mohd idrees

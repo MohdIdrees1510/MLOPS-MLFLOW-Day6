@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bec2a012bfd14e1a9299c8629d9b97e5/artifacts
+end_time: 1752207455673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bec2a012bfd14e1a9299c8629d9b97e5
+run_name: languid-snipe-793
+run_uuid: bec2a012bfd14e1a9299c8629d9b97e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752207453125
+status: 3
+tags: []
+user_id: Mohd idrees

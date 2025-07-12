@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/710653182315381976/b28c149efa7147b3b59d6be8c5d7c8de/artifacts
+end_time: 1752290478983
+entry_point_name: ''
+experiment_id: '710653182315381976'
+lifecycle_stage: active
+run_id: b28c149efa7147b3b59d6be8c5d7c8de
+run_name: nosy-auk-282
+run_uuid: b28c149efa7147b3b59d6be8c5d7c8de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752290478028
+status: 3
+tags: []
+user_id: Mohd idrees
